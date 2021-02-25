@@ -1,1 +1,1 @@
-![alt text](https://github.com/Kleditzl/fib/blob/master/test_output.png)
+![image](https://github.com/Kleditzl/fib/blob/master/test_output.png)
