@@ -1,1 +1,5 @@
 ![alt tag](https://github.com/Kleditzl/fib/blob/master/test_output.png)
+![alt tag](https://github.com/Kleditzl/fib/blob/master/coverage_html_test_fibonacci.png)
+![alt tag](https://github.com/Kleditzl/fib/blob/master/coverage_table.png)
+![alt tag](https://github.com/Kleditzl/fib/blob/master/coverage_fibonacci.png)
+![alt tag](https://github.com/Kleditzl/fib/blob/master/pytest_cov_html.png)
